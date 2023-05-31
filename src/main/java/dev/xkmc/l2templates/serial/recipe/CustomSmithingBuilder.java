@@ -18,7 +18,7 @@ import net.minecraft.world.level.ItemLike;
 
 import java.util.function.Consumer;
 
-import static dev.xkmc.l2library.serial.recipe.AbstractSmithingRecipe.TEMPLATE_PLACEHOLDER;
+import static dev.xkmc.l2templates.serial.recipe.AbstractSmithingRecipe.TEMPLATE_PLACEHOLDER;
 
 public class CustomSmithingBuilder<T extends AbstractSmithingRecipe<T>> extends SmithingTransformRecipeBuilder implements IExtendedRecipe {
 

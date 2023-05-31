@@ -1,6 +1,6 @@
 package dev.xkmc.l2templates.templates.menu.stacked;
 
-import dev.xkmc.l2library.base.menu.SpriteManager;
+import dev.xkmc.l2templates.templates.menu.SpriteManager;
 import net.minecraft.client.gui.GuiComponent;
 import net.minecraft.network.chat.Component;
 

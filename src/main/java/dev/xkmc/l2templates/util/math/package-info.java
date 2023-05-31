@@ -1,7 +1,7 @@
 @MethodsReturnNonnullByDefault
 @ParametersAreNonnullByDefault
 
-package dev.xkmc.l2templates.serial.ingredients;
+package dev.xkmc.l2templates.util.math;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 

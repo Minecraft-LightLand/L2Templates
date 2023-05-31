@@ -1,7 +1,7 @@
 package dev.xkmc.l2templates.templates.menu;
 
 import com.mojang.blaze3d.vertex.PoseStack;
-import dev.xkmc.l2library.util.Proxy;
+import dev.xkmc.l2templates.util.tools.Proxy;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.inventory.AbstractContainerScreen;
 import net.minecraft.network.chat.Component;

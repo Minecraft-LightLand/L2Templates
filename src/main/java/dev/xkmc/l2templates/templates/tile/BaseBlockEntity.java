@@ -1,9 +1,9 @@
 package dev.xkmc.l2templates.templates.tile;
 
-import dev.xkmc.l2library.util.annotation.ServerOnly;
 import dev.xkmc.l2serial.serialization.SerialClass;
 import dev.xkmc.l2serial.serialization.codec.TagCodec;
 import dev.xkmc.l2serial.util.Wrappers;
+import dev.xkmc.l2templates.util.annotation.ServerOnly;
 import net.minecraft.MethodsReturnNonnullByDefault;
 import net.minecraft.core.BlockPos;
 import net.minecraft.nbt.CompoundTag;

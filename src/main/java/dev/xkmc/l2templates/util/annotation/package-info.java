@@ -1,7 +1,7 @@
 @MethodsReturnNonnullByDefault
 @ParametersAreNonnullByDefault
 
-package dev.xkmc.l2templates.templates.overlay;
+package dev.xkmc.l2templates.util.annotation;
 
 import net.minecraft.MethodsReturnNonnullByDefault;
 
